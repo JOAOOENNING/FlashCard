@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Simulação',
+    'Quais plataformas suportam Farming Simulator?',
+    'O jogo está disponível em várias plataformas, incluindo PC, PlayStation, Xbox e Nintendo Switch.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Simulação',
+    'Quais são os principais tipos de culturas que posso plantar?',
+    'Os jogadores podem plantar uma variedade de culturas, como trigo, milho, soja, canola, batatas e etc.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Simulação',
+    'É possível criar animais no Farming Simulator?',
+    'Sim, os jogadores podem criar animais como vacas, ovelhas, porcos e galinhas, gerenciando sua alimentação e cuidados para maximizar a produção de leite, lã e carne.'
 )
