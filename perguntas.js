@@ -1,6 +1,6 @@
 criaCartao(
     'Simulação',
-    'O que é Farming Simulator?'
+    'O que é Farming Simulator?',
     'Farming Simulator é um jogo de simulação agrícola que permite aos jogadores gerenciar uma fazenda, cultivando plantas, criando animais e operando uma variedade de máquinas agrícolas.'
 )
 
