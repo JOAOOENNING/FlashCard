@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('img/hq720.jpg');
+    background: url('assets/img/fs22-release-date-revealed8-lg_fs22planet.jpg');
     font-family: Bai Jamjuree;
 }
 
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/https://staticbo.psthc.fr/wp-content/uploads/2021/05/FarmingSimulator22_logo.png.jpg'), no-repeat cover;
+        background: url(''), no-repeat cover;
     }
 
     .cartao {
